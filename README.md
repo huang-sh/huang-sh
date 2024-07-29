@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am huangsh and I am currently a graduate student.
+I am huangsh and I am currently a PhD student.
 
 <details>
   <summary><b>🚀 Quick Stats</b></summary>
