@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am huangsh and I am currently a PhD student.
+I am huangsh and I am currently a PhD student in University of Turin.
+I am interested in developing useful bioinformatics tools and interesting projects with large language model🤖
 
 <details>
   <summary><b>🚀 Quick Stats</b></summary>
