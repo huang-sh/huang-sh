@@ -6,6 +6,10 @@ I am interested in developing useful bioinformatics tools and interesting projec
 
 ## 🚀 Some projects I developed
 
+### [Starling](https://github.com/Starling)
+
+Launch, switch, and organize Claude Code and Codex sessions with model profiles, catalogs, project views, and VS Code integration.
+
 ### [sciskillhub](https://github.com/sciskillhub/sciskill)
 
 Agent skill for science
