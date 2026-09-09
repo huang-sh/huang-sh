@@ -6,7 +6,11 @@ I am interested in developing useful bioinformatics tools and interesting projec
 
 ## 🚀 Some projects I developed
 
-### [Starling](https://github.com/Starling)
+### [PiX](https://github.com/huang-sh/PiX)
+
+A non-linear AI agent workbench — session is a tree: branch anytime, and context follows the branch
+
+### [Starling](https://github.com/huang-sh/Starling)
 
 Launch, switch, and organize Claude Code and Codex sessions with model profiles, catalogs, project views, and VS Code integration.
 
